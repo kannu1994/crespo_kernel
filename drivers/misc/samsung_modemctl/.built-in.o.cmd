@@ -1,0 +1,1 @@
+cmd_drivers/misc/samsung_modemctl/built-in.o :=  /home/ar/android/aosp/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o drivers/misc/samsung_modemctl/built-in.o drivers/misc/samsung_modemctl/modem_ctl.o drivers/misc/samsung_modemctl/modem_io.o drivers/misc/samsung_modemctl/modem_dbg.o 

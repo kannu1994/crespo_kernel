@@ -1,0 +1,7 @@
+kernel/sound/soc/snd-soc-core.ko
+kernel/sound/soc/codecs/snd-soc-wm8994-samsung.ko
+kernel/sound/soc/samsung/snd-soc-s3c24xx.ko
+kernel/sound/soc/samsung/snd-soc-s5pc1xx-i2s.ko
+kernel/sound/soc/samsung/s3c-idma.ko
+kernel/sound/soc/samsung/s5p-i2s_sec.ko
+kernel/sound/soc/samsung/snd-soc-herring-wm8994.ko

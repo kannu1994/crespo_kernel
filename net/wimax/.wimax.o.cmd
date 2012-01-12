@@ -1,0 +1,1 @@
+cmd_net/wimax/wimax.o := /home/ar/android/aosp/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o net/wimax/wimax.o net/wimax/id-table.o net/wimax/op-msg.o net/wimax/op-reset.o net/wimax/op-rfkill.o net/wimax/op-state-get.o net/wimax/stack.o net/wimax/debugfs.o 

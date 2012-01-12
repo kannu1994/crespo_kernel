@@ -1,0 +1,1 @@
+cmd_sound/soc/samsung/snd-soc-s5pc1xx-i2s.o := /home/ar/android/aosp/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o sound/soc/samsung/snd-soc-s5pc1xx-i2s.o sound/soc/samsung/s5pc1xx-i2s.o 
